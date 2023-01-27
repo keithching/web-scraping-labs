@@ -1,7 +1,15 @@
+# What this project does
+
+Scraping images from a website and saves them into the local file system.
+
 # Technology
 
 - Docker
+  - for development
+  - built Docker image and container for the source code and the dev environment
+  - bind mounts used for getting the saved images from the container to the local machine
 - Python
+  - web scraping libraries used
 
 # Issues
 
