@@ -23,9 +23,9 @@
 <link href="/files/14/s46/css/style_v18.css" rel="stylesheet" type="text/css">
 <link href="/files/14/s46/css/event.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" type="text/css" media="all" href="/files/14/s46/css/pc/style_pc.css?ima=3516" >
-<script src="/files/14/s46/fc/js/contents.js?ima=3516"></script>
-<link rel="stylesheet" type="text/css" media="all" href="/files/14/s46/fc/css/style_fc_v0.css?ima=3516">
+<link rel="stylesheet" type="text/css" media="all" href="/files/14/s46/css/pc/style_pc.css?ima=0801" >
+<script src="/files/14/s46/fc/js/contents.js?ima=0801"></script>
+<link rel="stylesheet" type="text/css" media="all" href="/files/14/s46/fc/css/style_fc_v0.css?ima=0801">
 
 
 <!--favicon-->
@@ -141,37 +141,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <header class="wid100">
     <div class="inner fxpc">
-      <div class="head-logo"><a href="/s/s46/?ima=3516"><img class="chgimg" src="/files/14/s46/img/com-logo_pc.svg" alt="櫻坂46"></a></div>
+      <div class="head-logo"><a href="/s/s46/?ima=0801"><img class="chgimg" src="/files/14/s46/img/com-logo_pc.svg" alt="櫻坂46"></a></div>
       <nav class="drawer-nav">
         <div class="nav-inner">
           <ul class="nav fx hc wf-a">
             <li class="title sp">OFFICIAL</li>
-            <li class="home"><a href="/s/s46/?ima=3516">HOME</a></li>
-            <li><a href="/s/s46/news/list?ima=3516&dy=202301">NEWS</a></li>
-            <li class="pc"><a href="/s/s46/media/list?ima=3516">SCHEDULE</a></li>
+            <li class="home"><a href="/s/s46/?ima=0801">HOME</a></li>
+            <li><a href="/s/s46/news/list?ima=0801&dy=202301">NEWS</a></li>
+            <li class="pc"><a href="/s/s46/media/list?ima=0801">SCHEDULE</a></li>
             
-            <li><a href="/s/s46/search/artist?ima=3516">MEMBER</a></li>
-            <li><a href="/s/s46/page/formation?ima=3516">FORMATION</a></li>
-            <li><a href="/s/s46/diary/blog?ima=3516">BLOG</a></li>
-            <li><a href="/s/s46/artist/00/discography?ima=3516">DISCOGRAPHY</a></li>
-            <li><a href="/s/s46/diary/tv2?ima=3516">TV</a></li>
-            <li><a href="/s/s46/diary/event_page/list?ima=3516">MEET&GREET</a></li>
-            <li><a href="/s/s46/contents_list?ima=3516&cd=132">VIDEO</a></li>
-            <li><a href="/s/s46/diary/live_page/list?ima=3516">LIVE</a></li>
+            <li><a href="/s/s46/search/artist?ima=0801">MEMBER</a></li>
+            <li><a href="/s/s46/page/formation?ima=0801">FORMATION</a></li>
+            <li><a href="/s/s46/diary/blog?ima=0801">BLOG</a></li>
+            <li><a href="/s/s46/artist/00/discography?ima=0801">DISCOGRAPHY</a></li>
+            <li><a href="/s/s46/diary/tv2?ima=0801">TV</a></li>
+            <li><a href="/s/s46/diary/event_page/list?ima=0801">MEET&GREET</a></li>
+            <li><a href="/s/s46/contents_list?ima=0801&cd=132">VIDEO</a></li>
+            <li><a href="/s/s46/diary/live_page/list?ima=0801">LIVE</a></li>
             <li><a href="https://store.plusmember.jp/sakurazaka46/" target="_blank">GOODS</a></li>
-            <li><a href="/s/s46/page/about_fanclub?ima=3516">FANCLUB</a></li>
-            <li style="color: #F19DB5;"><a href="/s/s46/item/list?ima=3516">FC GOODS</a></li>
+            <li><a href="/s/s46/page/about_fanclub?ima=0801">FANCLUB</a></li>
+            <li style="color: #F19DB5;"><a href="/s/s46/item/list?ima=0801">FC GOODS</a></li>
           </ul>
 
           <ul class="nav fx hc wf-a fc sp" wovn-ignore>
             <li class="title sp">FANCLUB</li>
-            <li><a href="/s/s46/group/list?ima=3516&dy=202301">FC NEWS</a></li>
-            <li><a href="/s/s46/diary/managers_diary/list?ima=3516">MANAGER'S DIARY</a></li>
-            <li><a href="/s/s46/ticket/list?ima=3516&ct=ticket&so=NW">TICKET</a></li>
-            <li><a href="/s/s46/mypage?ima=3516">MY PAGE</a></li>
-            <li><a href="/s/s46/page/history?ima=3516">HISTORY</a></li>
-            <li><a href="/s/s46/diary/archive/list?ima=3516">ARCHIVE</a></li>
-            <li><a href="/s/s46/page/fc_archive?ima=3516">KEYAKIZAKA46 ARCHIVE</a></li>
+            <li><a href="/s/s46/group/list?ima=0801&dy=202301">FC NEWS</a></li>
+            <li><a href="/s/s46/diary/managers_diary/list?ima=0801">MANAGER'S DIARY</a></li>
+            <li><a href="/s/s46/ticket/list?ima=0801&ct=ticket&so=NW">TICKET</a></li>
+            <li><a href="/s/s46/mypage?ima=0801">MY PAGE</a></li>
+            <li><a href="/s/s46/page/history?ima=0801">HISTORY</a></li>
+            <li><a href="/s/s46/diary/archive/list?ima=0801">ARCHIVE</a></li>
+            <li><a href="/s/s46/page/fc_archive?ima=0801">KEYAKIZAKA46 ARCHIVE</a></li>
           </ul>
         </div>
       </nav>
@@ -180,37 +180,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="nav-inner">
           <ul class="nav fx hc wf-a">
             <li class="title sp">OFFICIAL</li>
-            <li class="home"><a href="/s/s46/?ima=3516">HOME</a></li>
-            <li><a href="/s/s46/news/list?ima=3516&dy=202301">NEWS</a></li>
-            <li class="pc"><a href="/s/s46/media/list?ima=3516">SCHEDULE</a></li>
+            <li class="home"><a href="/s/s46/?ima=0801">HOME</a></li>
+            <li><a href="/s/s46/news/list?ima=0801&dy=202301">NEWS</a></li>
+            <li class="pc"><a href="/s/s46/media/list?ima=0801">SCHEDULE</a></li>
             
-            <li><a href="/s/s46/search/artist?ima=3516">MEMBER</a></li>
-            <li><a href="/s/s46/page/formation?ima=3516">FORMATION</a></li>
-            <li><a href="/s/s46/diary/blog?ima=3516">BLOG</a></li>
-            <li><a href="/s/s46/artist/00/discography?ima=3516">DISCOGRAPHY</a></li>
-            <li><a href="/s/s46/diary/tv2?ima=3516">TV</a></li>
-            <li><a href="/s/s46/diary/event_page/list?ima=3516">MEET&GREET</a></li>
-            <li><a href="/s/s46/contents_list?ima=3516&cd=132">VIDEO</a></li>
-            <li><a href="/s/s46/diary/live_page/list?ima=3516">LIVE</a></li>
+            <li><a href="/s/s46/search/artist?ima=0801">MEMBER</a></li>
+            <li><a href="/s/s46/page/formation?ima=0801">FORMATION</a></li>
+            <li><a href="/s/s46/diary/blog?ima=0801">BLOG</a></li>
+            <li><a href="/s/s46/artist/00/discography?ima=0801">DISCOGRAPHY</a></li>
+            <li><a href="/s/s46/diary/tv2?ima=0801">TV</a></li>
+            <li><a href="/s/s46/diary/event_page/list?ima=0801">MEET&GREET</a></li>
+            <li><a href="/s/s46/contents_list?ima=0801&cd=132">VIDEO</a></li>
+            <li><a href="/s/s46/diary/live_page/list?ima=0801">LIVE</a></li>
             <li><a href="https://store.plusmember.jp/sakurazaka46/" target="_blank">GOODS</a></li>
-            <li><a href="/s/s46/page/about_fanclub?ima=3516">FANCLUB</a></li>
-            <li class="pc" style="color: #F19DB5;"><a href="/s/s46/item/list?ima=3516">FC GOODS</a></li>
+            <li><a href="/s/s46/page/about_fanclub?ima=0801">FANCLUB</a></li>
+            <li class="pc" style="color: #F19DB5;"><a href="/s/s46/item/list?ima=0801">FC GOODS</a></li>
           </ul>
 
           <ul class="nav fx hc wf-a fc sp" wovn-ignore>
             <li class="title sp">FANCLUB</li>
-            <li><a href="/s/s46/group/list?ima=3516&dy=202301">FC NEWS</a></li>
-            <li><a href="/s/s46/page/wallpaper?ima=3516">WALLPAPER</a></li>
-            <li><a href="/s/s46/diary/managers_diary/list?ima=3516">MANAGER'S DIARY</a></li>
-            <li><a href="/s/s46/diary/radio?ima=3516">RADIO</a></li>
-            <li><a href="/s/s46/ticket/list?ima=3516&ct=ticket&so=NW">TICKET</a></li>
-            <li><a href="/s/s46/page/costume?ima=3516">COSTUME</a></li>
-            <li><a href="/s/s46/diary/fc_movie/list?ima=3516">FC MOVIE</a></li>
-            <li><a href="/s/s46/item/list?ima=3516">FC GOODS</a></li>
-            <li><a href="/s/s46/mypage?ima=3516">MY PAGE</a></li>
-            <li><a href="/s/s46/page/history?ima=3516">HISTORY</a></li>
-            <li><a href="/s/s46/diary/archive/list?ima=3516">ARCHIVE</a></li>
-            <li><a href="/s/s46/page/fc_archive?ima=3516">KEYAKIZAKA46 ARCHIVE</a></li>
+            <li><a href="/s/s46/group/list?ima=0801&dy=202301">FC NEWS</a></li>
+            <li><a href="/s/s46/page/wallpaper?ima=0801">WALLPAPER</a></li>
+            <li><a href="/s/s46/diary/managers_diary/list?ima=0801">MANAGER'S DIARY</a></li>
+            <li><a href="/s/s46/diary/radio?ima=0801">RADIO</a></li>
+            <li><a href="/s/s46/ticket/list?ima=0801&ct=ticket&so=NW">TICKET</a></li>
+            <li><a href="/s/s46/page/costume?ima=0801">COSTUME</a></li>
+            <li><a href="/s/s46/diary/fc_movie/list?ima=0801">FC MOVIE</a></li>
+            <li><a href="/s/s46/item/list?ima=0801">FC GOODS</a></li>
+            <li><a href="/s/s46/mypage?ima=0801">MY PAGE</a></li>
+            <li><a href="/s/s46/page/history?ima=0801">HISTORY</a></li>
+            <li><a href="/s/s46/diary/archive/list?ima=0801">ARCHIVE</a></li>
+            <li><a href="/s/s46/page/fc_archive?ima=0801">KEYAKIZAKA46 ARCHIVE</a></li>
           </ul>
           <div id="js-menu_loign" style="width: 100%;"></div>
 
@@ -423,10 +423,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <input type='hidden' name='my_prevdom' value='sakurazaka46.com' />
 <input type="hidden" name="my_prevurl" value="/s/s46/contents_list" />
 <input type="hidden" name="my_prevmet" value="GET" />
-<input type="hidden" name="my_webckid" value="b2962d4ad365bb3d2eef966bf9e5436a43977be9" />
+<input type="hidden" name="my_webckid" value="89e2b36287af253b105f53d82d58012a3a6b0d8b" />
 <input type="hidden" name="my_prevprm" value="{&quot;cd&quot;:&quot;104&quot;,&quot;ct&quot;:&quot;fc_photo_048&quot;,&quot;so&quot;:&quot;ID&quot;}" />
 
-                                        <input type="hidden" name="ima" value="3516" />
+                                        <input type="hidden" name="ima" value="0801" />
 
                                         <div class="btn-submit"><button type="subbmit">会員登録<br>ログインしてもっと見る</button></div>
                                         </form>
@@ -464,7 +464,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
         <div class="btn-wrap wid1200 center">
-            <p class="btn-type1 rev"><a href="/s/s46/page/history?ima=3516">HISTORY TOPへ</a></p>
+            <p class="btn-type1 rev"><a href="/s/s46/page/history?ima=0801">HISTORY TOPへ</a></p>
         </div>
     </div>
 
@@ -513,12 +513,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <div class="inner wid1200 fxpc f-just">
             <ul class="nav fx">
-                <li><a href="/s/s46/page/about?ima=3516">櫻坂46とは?</a></li>
-                <li><a href="/s/s46/page/producer?ima=3516">PRODUCER</a></li>
-                <li><a href="/s/s46/page/faq?ima=3516">FAQ</a></li>
-                <li><a href="/s/s46/inquiry?ima=3516">お問い合わせ</a></li>
-                <li><a href="/s/s46/diary/archive/list?ima=3516">アーカイブ</a></li>
-                <li><a href="https://www.keyakizaka46.com/s/k46o/?ima=3516">欅坂46オフィシャルサイト</a></li>
+                <li><a href="/s/s46/page/about?ima=0801">櫻坂46とは?</a></li>
+                <li><a href="/s/s46/page/producer?ima=0801">PRODUCER</a></li>
+                <li><a href="/s/s46/page/faq?ima=0801">FAQ</a></li>
+                <li><a href="/s/s46/inquiry?ima=0801">お問い合わせ</a></li>
+                <li><a href="/s/s46/diary/archive/list?ima=0801">アーカイブ</a></li>
+                <li><a href="https://www.keyakizaka46.com/s/k46o/?ima=0801">欅坂46オフィシャルサイト</a></li>
             </ul>
             <div class="jas fx r-vc">
                 <p class="txt">JASRAC許諾第6709411244Y45037号<br>JASRAC許諾第9018170002Y31018号</p>
