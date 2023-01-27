@@ -9,11 +9,11 @@ def getdata(url):
     r = requests.get(url)
     return r.text
 
-HOST = "https://sakurazaka46.com"
+HOST = os.environ["HOST"]
 
-htmldata = getdata("https://sakurazaka46.com/s/s46/contents_list?ima=2445&cd=104&ct=fc_photo_048&so=ID")
+htmldata = getdata(os.environ["URL"])
 
-soup = BeautifulSoup(open('source.html'), 'html.parser')
+soup = BeautifulSoup(open(os.environ["HTML_FILE"]), 'html.parser')
 
 # create a folder in the file system in the container
 # a bind mount is used to mirror to the local machine
