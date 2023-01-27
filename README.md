@@ -11,6 +11,10 @@ Scraping images from a website and saves them into the local file system.
 - Python
   - web scraping libraries used
 
+# Limitations
+
+- The source code is specifically for scraping the URL of the "background-image" attribute under the HTML attribute "style" only. Not intended to be used universally
+
 # Issues
 
 - the HTML data got from the URL does not contain all the HTML li elements from the website. Only a portion of the photos is downloaded as a result.
