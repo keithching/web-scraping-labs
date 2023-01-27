@@ -13,15 +13,7 @@ HOST = "https://sakurazaka46.com"
 
 htmldata = getdata("https://sakurazaka46.com/s/s46/contents_list?ima=2445&cd=104&ct=fc_photo_048&so=ID")
 
-# with open('source.html') as fp:
-    # print(fp)
 soup = BeautifulSoup(open('source.html'), 'html.parser')
-# print(soup)
-
-with open('html_data.txt', 'w') as f:
-    f.write(htmldata)
-
-# soup = BeautifulSoup(htmldata, 'html.parser')
 
 # create a folder in the file system in the container
 # a bind mount is used to mirror to the local machine
@@ -48,8 +40,8 @@ with open('url_list.txt', 'w') as f:
             number_of_photos += 1
 
             filepath = IMAGE_DIR + '/' + str(index) + '.jpg'
-            # only write to file system if not exist
-            if not os.path.exists(filepath):
+            
+            if not os.path.exists(filepath): # only write to file system if not exist
                 urllib.request.urlretrieve(fullUrl, filepath)
 
 print('operation completed for ' + str(number_of_photos) + ' photos')
